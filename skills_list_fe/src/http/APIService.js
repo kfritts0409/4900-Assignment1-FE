@@ -5,7 +5,8 @@ import axios from 'axios';
   'http://127.0.0.1:8000' or
   'http://yourPythonAnywhereName.pythonanywhere.com'
 */
-const API_URL = 'http://127.0.0.1:8000'; 
+// const API_URL = 'http://127.0.0.1:8000'; 
+const API_URL = 'http://kfritts.pythonanywhere.com'; 
 
 export class APIService {
     constructor() {
